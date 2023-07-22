@@ -86,9 +86,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Resources\empty.png" />
-    <Content Include="Resources\New\grey.gif" />
-    <Content Include="Resources\New\red.gif" />
-    <Content Include="Resources\New\yellow.gif" />
     <Content Include="Resources\red.png" />
     <Content Include="Resources\yellow.png" />
   </ItemGroup>
