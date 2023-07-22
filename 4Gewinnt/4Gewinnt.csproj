@@ -90,7 +90,6 @@
     <Content Include="Resources\New\red.gif" />
     <Content Include="Resources\New\yellow.gif" />
     <Content Include="Resources\red.png" />
-    <Content Include="Resources\template.png" />
     <Content Include="Resources\yellow.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
